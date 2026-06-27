@@ -1,0 +1,29 @@
+[
+  {
+    "Name": "開発ツール",
+    "Icon": "",
+    "Programs": [
+      {
+        "Name": "コマンドプロンプト",
+        "Path": "cmd.exe",
+        "Icon": ""
+      },
+      {
+        "Name": "メモ帳",
+        "Path": "notepad.exe",
+        "Icon": ""
+      }
+    ]
+  },
+  {
+    "Name": "ブラウザ",
+    "Icon": "",
+    "Programs": [
+      {
+        "Name": "Microsoft Edge",
+        "Path": "msedge.exe",
+        "Icon": ""
+      }
+    ]
+  }
+]
